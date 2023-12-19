@@ -1,0 +1,1 @@
+sudo apt update && sudo apt install python3 pip git stegsnow pluma gem john hashcat exiftool steghide && sudo gem install haiti-hash && sudo gunzip /usr/share/wordlists/rockyou.txt.gz | cp /usr/share/wordlists/rockyou.txt . && sudo chmod +x KryptoCrack.py
